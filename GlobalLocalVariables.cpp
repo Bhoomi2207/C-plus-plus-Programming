@@ -6,6 +6,7 @@ int main()
     /*****************************Gloabal and Local Variables*************************/
     int globVar = 12;
     cout<<"Value of global variable is: "<<globVar; //Local variable
+    return 0;
 }
 
 // Global variable can be accessed by any function in the whole program.
