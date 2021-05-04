@@ -7,3 +7,4 @@ int main()
     cout<<"The sum is: "<<sum; 
     return 0;
 }
+
