@@ -11,6 +11,7 @@ int main()
     cin>>n2; /* The symbol '>>' is called Extraction operator. */
 
     cout<<"The number 1 is: "<<n1<<" and the number 2: "<<n2;
+    cout<<"The sum of the numbers is: "<<n1 + n2<<endl;
     return 0;
 }
 
